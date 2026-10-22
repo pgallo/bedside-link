@@ -1,0 +1,15 @@
+PUMP SIM boot
+self test OK
+$PUMP,seq=0,ts=20261020083007,state=RUNNING,rate=12.5,vi=0.00,vtbi=50.0,occl=0,bat=90,drug=Heparin 25000 U & NaCl 0.9%^50 mL*55
+$PUMP,seq=1,ts=20261020083037,state=RUNNING,rate=12.5,vi=0.10,vtbi=49.9,occl=0,bat=89,drug=Heparin 25000 U & NaCl 0.9%^50 mL*5F
+$PUMP,seq=2,ts=20261020083107,state=RUNNING,rate=12.5,vi=0.21,vtbi=49.8,occl=0,bat=88,drug=Heparin 25000 U & NaCl 0.9%^50 mL*5C
+$PUMP,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+$PUMP,seq=3,ts=20261020083137,state=RUNNING,rate=12.5,vi=0.31,vtbi=49.7,occl=0,bat=87,drug=Heparin 25000 U & NaCl 0.9%^50 mL*5F
+$PUMP,seq=4,ts=20261020083207,state=RUNNING,rate=12.5,vi=0.42,vtbi=49.6,occl=0,bat=86,drug=Heparin 25000 U & NaCl 0.9%^50 mL*06
+$PUMP,seq=5,ts=20261020083237,state=RUNNING,rate=12.5,vi=0.52,vtbi=49.5,occl=0,bat=85,drug=Heparin 25000 U & NaCl 0.9%^50 mL*5F
+$PUMP,seq=6,ts=20261020083307,state=OCCLUDED,rate=0.0,vi=0.63,vtbi=49.4,occl=1,bat=84,drug=Heparin 25000 U & NaCl 0.9%^50 mL*3F
+$PUMP,seq=7,ts=20261020083337,state=OCCLUDED,rate=0.0,vi=0.63,vtbi=49.4,occl=1,bat=83,drug=Heparin 25000 U & NaCl 0.9%^50 mL*3A
+$PUMP,seq=8,ts=20261020083407,state=OCCLUDED,rate=0.0,vi=0.63,vtbi=49.4,occl=1,bat=82,drug=Heparin 25000 U & NaCl 0.9%^50 mL*30
+$PUMP,seq=9,ts=20261020083437,state=RUNNING,rate=12.5,vi=0.63,vtbi=49.4,occl=0,bat=81,drug=Heparin 25000 U & NaCl 0.9%^50 mL*52
+$PUMP,seq=10,ts=20261020083507,state=RUNNING,rate=12.5,vi=0.73,vtbi=49.3,occl=0,bat=80,drug=Heparin 25000 U & NaCl 0.9%^50 mL
+$PUMP,seq=11,ts=20261020083537,state=RUNNING,rate=12.5,vi=0.83,vtbi=49.2,occl=0,bat=79,drug=Heparin 25000 U & NaCl 0.9%^50 mL*65

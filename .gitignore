@@ -1,0 +1,10 @@
+build/
+*.o
+*.ppu
+*.a
+*.compiled
+*.res
+*.or
+*.dbg
+link*.res
+backup/

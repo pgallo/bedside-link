@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Free Pascal
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fpc make
+
+      - name: Build
+        run: make all
+
+      - name: Test
+        run: make test
+
+      - name: Recorded streams match generator
+        run: make check-samples
